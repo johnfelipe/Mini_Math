@@ -1,5 +1,5 @@
 -------------------------------------
-MINI MATH
+              MINI MATH
 -------------------------------------
 
 An educational program that randomly
